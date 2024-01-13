@@ -1,0 +1,1304 @@
+Uri: https://tazamun.com.sa/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2021/08/bg-2@2x-scaled1.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2021\08\bg-2@2x-scaled1.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2021/08/bg-3@2x1.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2021\08\bg-3@2x1.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/happy-customer-tazamun-1.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\happy-customer-tazamun-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2021/09/bg-4@2x-1-scaled1.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2021\09\bg-4@2x-1-scaled1.jpg
+Content Type: image/jpeg
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\xfn\11.html
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/ar/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/feed/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://tazamun.com.sa/comments/feed/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/liquid-icon/lqd-essentials/fonts/lqd-essentials.woff2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\liquid-icon\lqd-essentials\fonts\lqd-essentials.woff2
+Content Type: font/woff2
+
+Uri: https://tazamun.com.sa/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.5
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/sitepress-multilingual-cms/dist/css/blocks/styles.css?ver=4.6.4
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\sitepress-multilingual-cms\dist\css\blocks\styles.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=8.4.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=8.4.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=8.4.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\sitepress-multilingual-cms\templates\language-switchers\legacy-list-horizontal\style.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\sitepress-multilingual-cms\templates\language-switchers\menu-item\style.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/liquid/vendors/woocommerce/css/liquid_wc.min.css
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\liquid\vendors\woocommerce\css\liquid_wc.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/style.css
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\style.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/css/elements/base/typography.css
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\css\elements\base\typography.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/css/theme-shop.min.css
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\css\theme-shop.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1704183251
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\elementor\css\custom-frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.0.4
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.25.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1704183251
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\elementor\css\custom-pro-frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/liquid-gdpr/assets/css/liquid-gdpr.min.css?ver=6.4.2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\liquid-gdpr\assets\css\liquid-gdpr.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/hub-elementor-addons/assets/css/theme-elementor.min.css?ver=4.1
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\hub-elementor-addons\assets\css\theme-elementor.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.0.4
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.0.4
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\css.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/liquid-icon/lqd-essentials/lqd-essentials.min.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\liquid-icon\lqd-essentials\lqd-essentials.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-json/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/wp/v2/pages/488
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\wp\v2\pages\488.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/New-Project-1.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\New-Project-1.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/cropped-New-Project-1-32x32.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\cropped-New-Project-1-32x32.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/cropped-New-Project-1-192x192.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\cropped-New-Project-1-192x192.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/cropped-New-Project-1-180x180.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\cropped-New-Project-1-180x180.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/about/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\about\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/services/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\services\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/web-mobile-applications-development/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\web-mobile-applications-development\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/cyber-security/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\cyber-security\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/it-support/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\it-support\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/contact/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\contact\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/offers/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\offers\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=cVEemOmHw9Y
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\watch.html
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/privacy-policy/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/terms-of-use/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\terms-of-use\index.htm
+Content Type: text/html
+
+Uri: https://www.facebook.com/tazamunksa
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\tazamunksa.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:700%2C400%2C500&display=swap
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\css-1.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/fresco/css/fresco.css
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\fresco\css\fresco.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/liquid-icon/lqd-essentials/lqd-essentials.min.css
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\liquid-icon\lqd-essentials\lqd-essentials.min-1.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.8
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=4.6.4
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\sitepress-multilingual-cms\res\js\cookies\language-cookie.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.4.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.4.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.4.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.4.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/wp-analytify-pro/inc/modules/events-tracking/assets/js/analytify-events-tracking.min.js?ver=6.4.2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\wp-analytify-pro\inc\modules\events-tracking\assets\js\analytify-events-tracking.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-68P5K5JCXK
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2021/09/En-Logo-Tazamun.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2021\09\En-Logo-Tazamun.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\sitepress-multilingual-cms\res\flags\en.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/sitepress-multilingual-cms/res/flags/ar.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\sitepress-multilingual-cms\res\flags\ar.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/assets/dummy.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\assets\dummy.png
+Content Type: image/png
+
+Uri: https://itbusiness.liquid-themes.com/elementor/wp-content/uploads/2021/08/fb-1@2x1.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\elementor\wp-content\uploads\2021\08\fb-1@2x1.jpg
+Content Type: image/jpeg
+
+Uri: https://itbusiness.liquid-themes.com/elementor/wp-content/uploads/2021/08/portrait-3@2x-31.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\elementor\wp-content\uploads\2021\08\portrait-3@2x-31.jpg
+Content Type: image/jpeg
+
+Uri: https://itbusiness.liquid-themes.com/elementor/wp-content/uploads/2021/08/portrait-2@2x-11.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\elementor\wp-content\uploads\2021\08\portrait-2@2x-11.jpg
+Content Type: image/jpeg
+
+Uri: https://itbusiness.liquid-themes.com/elementor/wp-content/uploads/2021/08/testi-1@2x-41.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\elementor\wp-content\uploads\2021\08\testi-1@2x-41.jpg
+Content Type: image/jpeg
+
+Uri: https://itbusiness.liquid-themes.com/elementor/wp-content/uploads/2021/08/Image@2x1.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\elementor\wp-content\uploads\2021\08\Image@2x1.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/image-6-300x76.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\image-6-300x76.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/image-5.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\image-5.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/image-4.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\image-4.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/image-3-300x300.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\image-3-300x300.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/image-2.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\image-2.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.5
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.5
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.8
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\js\rbtools.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.8
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\js\rs6.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/wp-analytify/assets/js/miscellaneous-tracking.js?ver=5.2.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\wp-analytify\assets\js\miscellaneous-tracking.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/liquid/vendors/woocommerce/js/liquid_filter_ajax.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\liquid\vendors\woocommerce\js\liquid_filter_ajax.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/fastdom/fastdom.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\fastdom\fastdom.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/jquery-ui/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\jquery-ui\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/fresco/js/fresco.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\fresco\js\fresco.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/lity/lity.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\lity\lity.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/gsap/minified/gsap.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\gsap\minified\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/gsap/utils/CustomEase.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\gsap\utils\CustomEase.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/gsap/minified/DrawSVGPlugin.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\gsap\minified\DrawSVGPlugin.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/gsap/minified/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\gsap\minified\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/js/draw-shape/liquidDrawShape.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\js\draw-shape\liquidDrawShape.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/js/animated-blob/liquidAnimatedBlob.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\js\animated-blob\liquidAnimatedBlob.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/fontfaceobserver.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\fontfaceobserver.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/intersection-observer.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\intersection-observer.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/lazyload.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/tinycolor-min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\tinycolor-min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/flickity/flickity.pkgd.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\flickity\flickity.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/isotope/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\isotope\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/isotope/packery-mode.pkgd.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\isotope\packery-mode.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/gsap/utils/SplitText.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\gsap\utils\SplitText.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/js/theme.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\js\theme.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.0.4
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.0.4
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/hub-elementor-addons/assets/js/widgets/header-woo-search.js?ver=4.1
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\hub-elementor-addons\assets\js\widgets\header-woo-search.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor-pro\assets\lib\lottie\lottie.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/liquid-gdpr/assets/js/liquid-gdpr.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\liquid-gdpr\assets\js\liquid-gdpr.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/flickity/flickity-fade.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\flickity\flickity-fade.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.18.2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.18.3
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.18.3
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.18.2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.3
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.18.2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.0.4
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.0.4
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.18.2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-includes/js/wp-util.min.js?ver=6.4.2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.5.4
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2021/09/En-Logo-Tazamun-300x110.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2021\09\En-Logo-Tazamun-300x110.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/image-6-1024x260.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\image-6-1024x260.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/image-6.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\image-6.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/image-3-150x150.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\image-3-150x150.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/image-3.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\image-3.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/work-together.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\work-together.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/ar/feed/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://tazamun.com.sa/ar/comments/feed/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/contact-form-7/includes/css/styles-rtl.css?ver=5.8.5
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\contact-form-7\includes\css\styles-rtl.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/css/woocommerce-layout-rtl.css?ver=8.4.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\css\woocommerce-layout-rtl.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen-rtl.css?ver=8.4.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen-rtl.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/css/woocommerce-rtl.css?ver=8.4.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\css\woocommerce-rtl.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/bootstrap/css/bootstrap-rtl.min.css
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\bootstrap\css\bootstrap-rtl.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/uploads/elementor/css/custom-frontend-lite-rtl.min.css?ver=1704210201
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\elementor\css\custom-frontend-lite-rtl.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/uploads/elementor/css/custom-pro-frontend-lite-rtl.min.css?ver=1704210202
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\elementor\css\custom-pro-frontend-lite-rtl.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementskit-lite/widgets/init/assets/css/rtl.css?ver=3.0.4
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementskit-lite\widgets\init\assets\css\rtl.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/ar/wp-json/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/wp/v2/pages/1257
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\wp\v2\pages\1257.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/ar/about/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\about\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/ar/services/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\services\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/ar/web-mobile-applications-development/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\web-mobile-applications-development\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/ar/brand-identity-building/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\brand-identity-building\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/ar/it-support/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\it-support\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/ar/cyber-security/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\cyber-security\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/ar/seo/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\seo\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/ar/social-media-management/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\social-media-management\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/ar/contact/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\contact\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2021/09/Arabic-Small.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2021\09\Arabic-Small.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2021/09/Arabic-Small-300x110.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2021\09\Arabic-Small-300x110.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: font/woff
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: font/ttf
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.25.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.25.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.25.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.25.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.25.0
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/background1.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\background1.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2021/09/bg-2@2x1.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2021\09\bg-2@2x1.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2021/09/World-Map1.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2021\09\World-Map1.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-json/wp/v2/pages/188
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\wp\v2\pages\188.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fabout%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/img-bg-hero.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\img-bg-hero.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\css-2.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-json/wp/v2/pages/271
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\wp\v2\pages\271.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fservices%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fservices%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1704192729
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\elementor\css\custom-widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/brand-identity-building/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\brand-identity-building\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/logo-design-gotikket-service-tubik.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\logo-design-gotikket-service-tubik.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/13867_web-development-dxb.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\13867_web-development-dxb.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/image3-6-840x630-1.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\image3-6-840x630-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/Support_Technical-Support_2-Photo-LE_02-10_2x.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\Support_Technical-Support_2-Photo-LE_02-10_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/cybersecurity-IT-security-services.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\cybersecurity-IT-security-services.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/Group-83.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\Group-83.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-json/wp/v2/pages/655
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\wp\v2\pages\655.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fweb-mobile-applications-development%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fweb-mobile-applications-development%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.18.3
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-json/wp/v2/pages/1255
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\wp\v2\pages\1255.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fcyber-security%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fcyber-security%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/wp-json/wp/v2/pages/668
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\wp\v2\pages\668.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fit-support%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fit-support%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/wp-json/wp/v2/pages/256
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\wp\v2\pages\256.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/particles.min.js
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\particles.min.js
+Content Type: application/javascript
+
+Uri: https://tazamun.com.sa/ar/اتصال/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\اتصال\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/wp-json/wp/v2/pages/1690
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\wp\v2\pages\1690.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Foffers%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Foffers%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://tazamun.com.sa/wp-json/wp/v2/pages/1603
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\wp\v2\pages\1603.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fprivacy-policy%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fprivacy-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/wp-json/wp/v2/pages/1636
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\wp\v2\pages\1636.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fterms-of-use%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fterms-of-use%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://www.instagram.com/tazamunksa/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\tazamunksa\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/fresco/fresco-skins/sprite.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\fresco\fresco-skins\sprite.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/themes/hub/assets/vendors/fresco/fresco-skins/sprite.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\themes\hub\assets\vendors\fresco\fresco-skins\sprite.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://tazamun.com.sa/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://tazamun.com.sa/ar/wp-json/wp/v2/pages/1259
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\wp\v2\pages\1259.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fabout%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/ar/wp-json/wp/v2/pages/1265
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\wp\v2\pages\1265.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fservices%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fservices%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/logo-design-gotikket-service-tubik-1.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\logo-design-gotikket-service-tubik-1.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/13867_web-development-dxb-1.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\13867_web-development-dxb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/image3-6-840x630-1-1.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\image3-6-840x630-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/Support_Technical-Support_2-Photo-LE_02-10_2x-1.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\Support_Technical-Support_2-Photo-LE_02-10_2x-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/wp-content/uploads/2023/07/cybersecurity-IT-security-services-1.jpg
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-content\uploads\2023\07\cybersecurity-IT-security-services-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tazamun.com.sa/ar/wp-json/wp/v2/pages/1267
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\wp\v2\pages\1267.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fweb-mobile-applications-development%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fweb-mobile-applications-development%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/ar/wp-json/wp/v2/pages/1260
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\wp\v2\pages\1260.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fbrand-identity-building%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fbrand-identity-building%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/ar/wp-json/wp/v2/pages/1263
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\wp\v2\pages\1263.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fit-support%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fit-support%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/ar/wp-json/wp/v2/pages/1262
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\wp\v2\pages\1262.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fcyber-security%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fcyber-security%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/seo/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\seo\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/ar/wp-json/wp/v2/pages/1264
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\wp\v2\pages\1264.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fseo%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fseo%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/social-media-management/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\social-media-management\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/ar/wp-json/wp/v2/pages/1266
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\wp\v2\pages\1266.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fsocial-media-management%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fsocial-media-management%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/ar/wp-json/wp/v2/pages/1261
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\wp\v2\pages\1261.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/wp-json/wp/v2/pages/638
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\wp\v2\pages\638.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fbrand-identity-building%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fbrand-identity-building%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/ar/wp-json/wp/v2/pages/1691
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\wp\v2\pages\1691.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2F%25d8%25a7%25d8%25aa%25d8%25b5%25d8%25a7%25d9%2584%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/ar/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Far%2F%25d8%25a7%25d8%25aa%25d8%25b5%25d8%25a7%25d9%2584%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\ar\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://tazamun.com.sa/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.cloudflare.com/5xx-error-landing/
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\5xx-error-landing\index.htm
+Content Type: text/html
+
+Uri: https://tazamun.com.sa/wp-json/wp/v2/pages/671
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\wp\v2\pages\671.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fseo%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fseo%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: https://tazamun.com.sa/wp-json/wp/v2/pages/649
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\wp\v2\pages\649.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fsocial-media-management%2F
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: https://tazamun.com.sa/wp-json/oembed/1.0/embed?url=https:%2F%2Ftazamun.com.sa%2Fsocial-media-management%2F&format=xml
+File Name: C:\Downloaded Web Sites\tazamun.com.sa\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
